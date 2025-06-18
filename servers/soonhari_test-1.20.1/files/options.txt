@@ -1,0 +1,7 @@
+version:3465
+realmsNotifications:false
+lang:ko_kr
+narrator:0
+tutorialStep:none
+skipMultiplayerWarning:true
+onboardAccessibility:false
