@@ -433,6 +433,16 @@
           ]
         },
         {
+          "id": "com.github.alexthe666:alexsmobs:1.22.9@jar",
+          "name": "Alex's Mobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 26350793,
+            "url": "https://github.com/mchdistro/soonhari/raw/main/servers/soonhari_test-1.20.1/forgemods/required/alexsmobs-1.22.9.jar",
+            "MD5": "504050d1f2e2c3019b6f53377ca354c6"
+          }
+        },
+        {
           "id": "team.creative:ambientsounds:6.1.11@jar",
           "name": "AmbientSounds",
           "type": "ForgeMod",
