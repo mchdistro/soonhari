@@ -533,6 +533,16 @@
           }
         },
         {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1320675,
+            "url": "https://github.com/mchdistro/soonhari/raw/main/servers/soonhari_test-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          }
+        },
+        {
           "id": "io.github.kosmx.emotes:emotecraft:2.2.7-b.build.50@jar",
           "name": "Emotecraft",
           "type": "ForgeMod",
@@ -650,6 +660,16 @@
             "size": 537325,
             "url": "https://github.com/mchdistro/soonhari/raw/main/servers/soonhari_test-1.20.1/forgemods/required/oceanicrealms-1.0.5.3.jar",
             "MD5": "6a3d3320260d8fe26b02c545b84f0693"
+          }
+        },
+        {
+          "id": "net.irisshaders.iris:oculus:1.8.0@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2851119,
+            "url": "https://github.com/mchdistro/soonhari/raw/main/servers/soonhari_test-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "MD5": "1dd891634ac21591b5a692471f112572"
           }
         },
         {
